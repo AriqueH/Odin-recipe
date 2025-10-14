@@ -1,2 +1,0 @@
-# Odin-recipe
-Practice
